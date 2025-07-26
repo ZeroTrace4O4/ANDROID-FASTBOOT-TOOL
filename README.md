@@ -1,0 +1,2 @@
+- Ensure **USB Debugging** is enabled on your device (Developer Options).  
+- If your device isn't detected, check your USB cable or install proper drivers for your phone model.
